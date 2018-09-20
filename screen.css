@@ -252,3 +252,14 @@ h1{
 	body{
 	background-color: #ededed;		
 	}
+	
+	h1{
+	padding: 5%;
+    margin: 2% 5% 2% 5%;
+	}
+	
+	form{
+		width: 100%;
+		border: none;
+	}
+}
