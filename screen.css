@@ -256,10 +256,33 @@ h1{
 	h1{
 		padding: 5%;
 		margin: 2% 5% 2% 5%;
+		text-align: center;
 	}
 	
 	form{
 		width: 100%;
 		border: none;
 	}
+	
+	div{
+		margin-bottom: 10%;
+	}
+	
+	label {
+		font-size: 2em;
+		text-align: center;
+		float: none;
+		width: 100%;
+	}
+	
+	input{
+		width: 100%;
+	}
+	
+	.submit{
+		width: 30%;
+		margin-top: 10%;
+		
+	}
 }
+
