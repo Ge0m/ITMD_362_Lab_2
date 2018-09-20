@@ -215,5 +215,12 @@ body{
 
 form{
 	padding: 5%;
-	margin: 0 0 5px 0
+	margin: 0 0 5px 0;
+}
+
+div{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
