@@ -226,7 +226,7 @@ form{
 div{
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 20px;
 }
 label {
@@ -248,7 +248,7 @@ h1{
 
 /*CSS for mobile devices*/
 
-@media screen and (min-width: 480){
+@media screen and (max-width: 480px){
 	body{
 		background-color: #ededed;		
 	}
