@@ -232,6 +232,7 @@ div{
 label {
   margin-bottom: 1%;
   float: left;
+  font-weight: bold;
 }
 
 h1{
@@ -244,3 +245,4 @@ h1{
 	margin-right: auto;
 	float: none;
 }
+
