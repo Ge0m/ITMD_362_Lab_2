@@ -212,3 +212,8 @@ body{
 	text-align: center;
 	background-color: #7aadff;
 }
+
+form{
+	padding: 5%;
+	margin: 0 0 5px 0
+}
