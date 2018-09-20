@@ -246,3 +246,8 @@ h1{
 	float: none;
 }
 
+/*CSS for mobile devices*/
+
+@media screen and (min-width: 320px) and (min-width: 580px){
+
+}
