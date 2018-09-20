@@ -248,6 +248,7 @@ h1{
 
 /*CSS for mobile devices*/
 
-@media screen and (min-width: 320px) and (min-width: 580px){
-
-}
+@media screen and (min-width: 480){
+	body{
+	background-color: #ededed;		
+	}
