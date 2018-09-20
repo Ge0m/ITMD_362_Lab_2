@@ -215,7 +215,8 @@ body{
 
 form{
 	padding: 5%;
-	margin: 0 0 5px 0;
+	margin: 0 auto;
+	width: 200px;
 }
 
 div{
@@ -223,4 +224,8 @@ div{
 	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+label {
+  margin-bottom: 1%;
+  float: left;
 }
